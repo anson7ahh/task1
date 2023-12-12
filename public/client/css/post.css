@@ -1,0 +1,20 @@
+/* CSS tùy chỉnh */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+div {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}

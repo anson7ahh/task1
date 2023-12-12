@@ -1,0 +1,11 @@
+{
+    "name": "ManagePost",
+    "alias": "managepost",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ManagePost\\Providers\\ManagePostServiceProvider"
+    ],
+    "files": []
+}
